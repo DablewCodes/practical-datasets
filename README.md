@@ -9,7 +9,7 @@ Every dataset lives in `datasets/<name>/` and includes:
 ## Datasets
 
 <!-- DATASETS:START -->
-_No datasets yet._
+- [Minimum Wage vs Living Cost Around the World (2010–2026)](datasets/minimum-wage-vs-living-cost/)
 <!-- DATASETS:END -->
 
 ## Licensing
