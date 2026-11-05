@@ -11,6 +11,7 @@ Every dataset lives in `datasets/<name>/` and includes:
 <!-- DATASETS:START -->
 - [Is It Getting Easier to Get Rich? Wealth, Billionaires and Inequality (1800–2026)](datasets/is-it-getting-easier-to-get-rich/)
 - [Minimum Wage vs Living Cost Around the World (2010–2026)](datasets/minimum-wage-vs-living-cost/)
+- [YouTube Trailer Likes, Dislikes and Comment Mood vs IMDb Ratings (2012–2026)](datasets/youtube-trailers-vs-imdb/)
 <!-- DATASETS:END -->
 
 ## Licensing
