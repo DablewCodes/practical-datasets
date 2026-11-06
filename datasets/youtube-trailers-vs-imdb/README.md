@@ -74,7 +74,8 @@ English only (langdetect), at least 3 words, each scored with VADER.
   Woman King) were organised dislike campaigns over casting or politics.
 - **VADER reads words, not meaning.** It misses sarcasm and reads hype as negative ("this is insane", "I'm crying",
   "Kong is going to kill him"): e.g. Spider-Man: No Way Home and Godzilla vs. Kong get negative comment moods while
-  their trailers are 98–99% liked.
+  their trailers are 98–99% liked. On 100 random comments read and labelled by an AI assistant (Claude) without
+  seeing VADER's answers, VADER gave the same label 55 times and the opposite (positive vs negative) 10 times.
 - **Top comments are fans and jokes**, not the average viewer; only English comments are scored.
 - One trailer per film (the most-viewed official one); other trailers of the same film can differ.
 - Trailers showing 0 likes on YouTube (a glitch, e.g. Speak No Evil 2024) are left out.
